@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Wish Surprise",
+  "description": "Interactive birthday wish celebration for Alfiya Tahereem & Shafiya Tahereem Behan with music, floating balloons, interactive cake, memories, and heartfelt messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
